@@ -494,7 +494,7 @@ a.twitter-user:before {
   }
 }
 .home .content-frame {
-  background: #ffffff url(../images/home/bg.png) 100% 0 no-repeat;
+  background: #ffffff url(../images/Home/bg.png) 100% 0 no-repeat;
 }
 @media screen and (max-width: 890px) {
   .home .content-frame {
