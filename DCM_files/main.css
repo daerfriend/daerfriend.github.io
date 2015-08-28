@@ -286,7 +286,7 @@ input[type="submit"]:hover {
   Global: Color & Shadows
 */
 body {
-  background: #fff url(../images/home/bg.png);
+  background: #fff url(../images/Home/bg.png);
   color: #222;
 }
 a,
@@ -360,8 +360,8 @@ a.rss {
   font-size: 6px;
   border-left: 1px solid #ddd;
   margin-left: 10px;
-  background: url(../images/icons/icon-sprite.png) no-repeat 10px -80px;
-  background-image: url(../images/icons/icon-sprite.svg);
+  background: url(../images/Icons/icon-sprite.png) no-repeat 10px -80px;
+  background-image: url(../images/Icons/icon-sprite.svg);
   vertical-align: middle;
 }
 a.twitter-user {
@@ -374,8 +374,8 @@ a.twitter-user:before {
   direction: ltr;
   width: 20px;
   height: 20px;
-  background: url(../images/icons/icon-sprite.png) no-repeat 0 -20px;
-  background-image: url(../images/icons/icon-sprite.svg);
+  background: url(../images/Icons/icon-sprite.png) no-repeat 0 -20px;
+  background-image: url(../images/Icons/icon-sprite.svg);
   margin-right: 5px;
   vertical-align: middle;
 }
@@ -502,7 +502,7 @@ a.twitter-user:before {
   }
 }
 /*********************************
-  CONTENT ICONS
+  CONTENT Icons
 */
 .content .icon,
 .home-content .icon {
@@ -510,8 +510,8 @@ a.twitter-user:before {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(../images/icons/icon-sprite.png) no-repeat;
-  background-image: url(../images/icons/icon-sprite.svg);
+  background: url(../images/Icons/icon-sprite.png) no-repeat;
+  background-image: url(../images/Icons/icon-sprite.svg);
 }
 .content .icon.back,
 .home-content .icon.back {
@@ -554,8 +554,8 @@ a.twitter-user:before {
   position: relative;
   width: 40px;
   height: 40px;
-  background: url(../images/icons/icon-sprite.png) no-repeat;
-  background-image: url(../images/icons/icon-sprite.svg);
+  background: url(../images/Icons/icon-sprite.png) no-repeat;
+  background-image: url(../images/Icons/icon-sprite.svg);
 }
 .icon-big.twitter {
   background-position: 0 -200px;
@@ -979,8 +979,8 @@ hr.graph.flex.b {
   left: 0;
   width: 20px;
   height: 20px;
-  background: url(../images/icons/icon-sprite.png) no-repeat left -20px;
-  background-image: url(../images/icons/icon-sprite.svg);
+  background: url(../images/Icons/icon-sprite.png) no-repeat left -20px;
+  background-image: url(../images/Icons/icon-sprite.svg);
 }
 .sidebar .links a.google-plus:before {
   background-position: 0 -60px;
@@ -1248,8 +1248,8 @@ html.side-nav-always-open .content-frame {
   width: 40px;
   height: 40px;
   overflow: hidden;
-  background-image: url(../images/icons/nav-icons.png);
-  background-image: url(../images/icons/nav-icons.svg);
+  background-image: url(../images/Icons/nav-Icons.png);
+  background-image: url(../images/Icons/nav-Icons.svg);
   opacity: 0.4;
 }
 .side-nav li a.selected .icon {
@@ -1349,7 +1349,7 @@ html.side-nav-always-open .content-frame {
   background: #111;
 }
 .ie8 .side-nav .icon {
-  background: url(../images/icons/nav-icons.png);
+  background: url(../images/Icons/nav-Icons.png);
 }
 .nav-collapsed .side-nav li a {
   background: transparent;
@@ -1650,8 +1650,8 @@ body.home .home-content {
   width: 20px;
   height: 20px;
   margin: 5px;
-  background: url(../images/graphics/carousel.png) no-repeat -20px 0;
-  background-image: url(../images/graphics/carousel.svg);
+  background: url(../images/Graphics/carousel.png) no-repeat -20px 0;
+  background-image: url(../images/Graphics/carousel.svg);
 }
 .home-content .nav .selected .icon {
   background-position: 0 0;
@@ -2409,8 +2409,8 @@ ul.checkmarks li:before {
   display: inline-block;
   width: 24px;
   height: 20px;
-  background: url(../images/icons/icon-sprite.png) no-repeat 4px -160px;
-  background-image: url(../images/icons/icon-sprite.svg);
+  background: url(../images/Icons/icon-sprite.png) no-repeat 4px -160px;
+  background-image: url(../images/Icons/icon-sprite.svg);
 }
 em.checkmark {
   display: inline-block;
@@ -2418,8 +2418,8 @@ em.checkmark {
   width: 20px;
   height: 18px;
   margin-right: 4px;
-  background: url(../images/icons/icon-sprite.png) no-repeat 4px -163px;
-  background-image: url(../images/icons/icon-sprite.svg);
+  background: url(../images/Icons/icon-sprite.png) no-repeat 4px -163px;
+  background-image: url(../images/Icons/icon-sprite.svg);
 }
 .studio-content .stories {
   position: relative;
@@ -2566,8 +2566,8 @@ em.checkmark {
   display: inline-block;
   width: 24px;
   height: 20px;
-  background: url(../images/icons/icon-sprite.png) no-repeat 4px -160px;
-  background-image: url(../images/icons/icon-sprite.svg);
+  background: url(../images/Icons/icon-sprite.png) no-repeat 4px -160px;
+  background-image: url(../images/Icons/icon-sprite.svg);
 }
 @media screen and (max-width: 890px) {
   .studio-content .company-checklist .companies li {
@@ -3120,7 +3120,7 @@ em.attribution {
 .library-video-icon {
   width: 29px;
   height: 21px;
-  background-image: url(../images/icons/play.png);
+  background-image: url(../images/Icons/play.png);
   background-size: 100%;
 }
 .library-video-thumbnail {
@@ -3646,8 +3646,8 @@ article footer {
   height: 20px;
   left: 14px;
   top: 4px;
-  background: url(../images/icons/icon-sprite.png) no-repeat -20px 0;
-  background-image: url(../images/icons/icon-sprite.svg);
+  background: url(../images/Icons/icon-sprite.png) no-repeat -20px 0;
+  background-image: url(../images/Icons/icon-sprite.svg);
 }
 .social-button.facebook:before {
   background-position: 0px -120px;
@@ -3677,11 +3677,11 @@ article div.gv_article_researchsprint_checklist {
 article ul.gv_article_researchsprint_checklist li {
   list-style: none;
   padding-left: 1.5em;
-  background: no-repeat url(../images/icons/checkbox.png) left 0.3em;
+  background: no-repeat url(../images/Icons/checkbox.png) left 0.3em;
   background-size: 1em;
 }
 article ul.gv_article_researchsprint_checklist li.gv_article_researchsprint_checklist_complete {
-  background-image: url(../images/icons/checkbox-checked.png);
+  background-image: url(../images/Icons/checkbox-checked.png);
 }
 article ul.gv_article_researchsprint_checklist li em {
   font-style: normal;
@@ -3700,7 +3700,7 @@ article .gv_article_researchsprint_example h4 {
 }
 article .gv_article_researchsprint_worksheet {
   padding-left: 1.5em;
-  background: no-repeat url(../images/icons/document.png) left 0.2em;
+  background: no-repeat url(../images/Icons/document.png) left 0.2em;
   background-size: 1em;
 }
 .blog-content article h1 {
