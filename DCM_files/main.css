@@ -1248,8 +1248,8 @@ html.side-nav-always-open .content-frame {
   width: 40px;
   height: 40px;
   overflow: hidden;
-  background-image: url(../images/Icons/nav-Icons.png);
-  background-image: url(../images/Icons/nav-Icons.svg);
+  background-image: url(../images/Icons/nav-icons.png);
+  background-image: url(../images/Icons/nav-icons.svg);
   opacity: 0.4;
 }
 .side-nav li a.selected .icon {
@@ -1349,7 +1349,7 @@ html.side-nav-always-open .content-frame {
   background: #111;
 }
 .ie8 .side-nav .icon {
-  background: url(../images/Icons/nav-Icons.png);
+  background: url(../images/Icons/nav-icons.png);
 }
 .nav-collapsed .side-nav li a {
   background: transparent;
