@@ -1578,6 +1578,7 @@ body.home .home-content {
 .home-content .slide .container {
   display: table-cell;
   vertical-align: middle;
+  margin-left: 5%
 }
 .home-content .slide img {
   margin: 0;
